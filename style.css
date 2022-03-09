@@ -38,6 +38,7 @@ nav a {
     text-decoration: none;
 }
 
-body {
+body, a {
     color: rgb(121, 120, 120);
 }
+
