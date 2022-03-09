@@ -1,0 +1,43 @@
+nav li {
+    display: inline;
+    margin: auto; 
+    display: inline-flexbox;
+    padding: 3%;
+    align-content: center;
+}
+nav {
+    text-align: center;
+    
+}
+
+a:visited {
+    color: rgb(121, 120, 120);
+}
+
+main h3 {
+    font-size: 1.5em;
+    color:rgb(214, 177, 10); 
+    text-decoration: underline;
+    letter-spacing: 0.05em;
+}
+
+nav ul {
+    background-color: rgba(166, 43, 43, 0.2);
+    padding: 3%;
+}
+
+nav li:hover {
+    background-color: white;
+}
+
+em {
+    text-decoration: underline
+}
+
+nav a {
+    text-decoration: none;
+}
+
+body {
+    color: rgb(121, 120, 120);
+}
